@@ -1,0 +1,14 @@
+.title {
+  height: 70px;
+  margin-bottom: 1.5em;
+  background-color: rgb(192, 45, 26);
+  color: #fff;
+  font-family: "Avantgarde", "TeX";
+  font-style: oblique;
+  letter-spacing: 3px;
+  font-size: xxx-large;
+}
+
+h1 {
+  padding-top: 5px;
+}

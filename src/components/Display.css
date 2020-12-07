@@ -1,0 +1,13 @@
+.display {
+  display: flex;
+  height: 2em;
+  flex: 1;
+  background-color: black;
+  border-top: 8px solid #888;
+  border-bottom: 3px solid #888;
+  color: white;
+  outline: 1px solid #888;
+  justify-content: flex-start;
+  padding: 0.5em;
+  align-items: center;
+}

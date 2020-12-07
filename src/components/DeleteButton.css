@@ -1,0 +1,22 @@
+.delete {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1.95;
+  align-content: center;
+  font-size: 1.3em;
+  color: rgb(75, 72, 72);
+  background-color: #e0e1e6;
+  outline: 1px solid #888;
+  border-right: 4px solid #888;
+  border-top: 2.5px solid #888;
+}
+
+.delete:hover {
+  font-size: 2em;
+  cursor: pointer;
+}
+
+.disable {
+  pointer-events: none;
+}
